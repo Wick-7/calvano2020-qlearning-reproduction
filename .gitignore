@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+Artificial Intelligence, Algorithmic Pricing, and Collusion.pdf
+大作业说明.pdf
